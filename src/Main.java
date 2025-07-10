@@ -10,7 +10,7 @@ public class Main {
         int c = x * y; //곱하기
         int d =  x/y; //나누기
         int e =  x + 3; //대입 연산자
-        boolean f = x > y; //논리 연산자
+//        boolean f = x > y; //논리 연산자
 
         System.out.println("더하기 : " + a);
         System.out.println("빼기 : " + b);
