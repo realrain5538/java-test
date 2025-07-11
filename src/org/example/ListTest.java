@@ -16,7 +16,6 @@ public class ListTest {
 
     public static void main(String[] args){
         listTest();
-
 //        List<String> list = new ArrayList<>();
 //        list.add("Hello");
 //        list.add("World");
